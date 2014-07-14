@@ -1,0 +1,278 @@
+---
+layout: main
+title: Workshop | Topics in Random Media
+---
+
+    <div class="container" >
+
+
+        
+
+        <div class="row" style="background-color:#f8f4d7; margin-bottom:1cm; padding:0.5cm 0.5cm 1cm 1cm; border: 1px black solid;">
+                <div class="col-md-8">
+                    <h2 style="font-size:32px;margin-top:2cm;">Workshop:</h2>
+                    <h1 style="font-size:52px;"> Topics in Random Media</h1>
+                    <h4 style="font-size:28px; margin-top: 0.5cm"> <small>Santiago, Chile, July 24 &amp 25, 2014.</small></h4>
+                </div>
+            <div class="col-md-4">
+                <h2> Organizers:</h2>
+                <p>Millenium Nucleus - Stochastic Models of Complex and Disordered Systems</p>
+                <p>Department of Mathematics - PUC Chile</p>
+                <p>Department of Mathematical Engineering - University of Chile</p>
+                <h2>Minicourses:</h2>
+                <p>Alexander Fribergh (Toulouse)</p>
+                <p>Christophe Sabot (Lyon)</p>
+                <p>Lorenzo Zambotti (Paris)</p>
+   
+            </div>
+
+            <hr>
+
+        </div>
+
+
+        <div class="row" style="margin-bottom:3cm;">
+                <div class="col-md-6">
+                    <h3 style="margin-bottom:0.8cm;"> About the Workshop</h3>
+                    <p style="width: 80%;"> The workhop Topics in Random Media will be held in Santiago, Chile on Thursday and Friday before the SPA of Buenos Aires. It will feature minicourses on RWRE by A. Fribergh and Ch. Sabot, and a minicourse on Regularity Structures by L. Zambotti. In addition, there will be a small number of talks.</p>
+                    <p>Please, refer to the schedule on the right for titles and abstracts.</p>
+
+                    <h3 style="margin-top:1cm; margin-bottom:0.8cm;"> Registration and Funding</h3>
+                    <p style="width: 80%;"> Registration is free but mandatory. Please, contact the organizers to let us know you intend to participate. We also have funding for several graduate students from Southamerica. Please, submit any request before June 10th.</p>
+
+                    <h3 style="margin-top:1cm; margin-bottom:0.8cm;"> Practical Information</h3>
+                    <p style="width: 80%;"> The talk will be held at the department of mathematics of PUC-Chile. Have a look at the following <a data-toggle="modal" data-target="#ModalInfo" style="color:black; cursor:pointer;" > link </a> for information on housing and how to get here. </p>
+
+                    <p> For any inquiry, please, contact the organizers.
+
+                    <h3 style="margin-top:1cm; margin-bottom:0.8cm;"> Contact <small>topicsrandommedia@gmail.com</small></h3>
+                    
+                </div>
+
+                <div class="col-md-6">
+                    <h3> Schedule:</h3>
+                    The following schedule is preliminary and will be updated periodically. 
+
+                    <h4>Thursday</h4>
+                    <ul>
+                        <li> 9:00-9:30 &nbsp &nbsp &nbsp Breakfast and Registration
+                        <li> 9:30-10:40 &nbsp &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalFribergh" style="color:black; cursor:pointer;"></i> &nbsp MC: Fribergh 
+                        <li> 10:40-11:00 &nbsp Coffee Break
+                        <li> 11:00-12:20 &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalZambotti" style="color:black; cursor:pointer;"></i> &nbsp MC: Zambotti
+                        <li> 12:20-14:00 &nbsp Lunch
+                        <li> 14:00-14:50 &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalTassion" style="color:black; cursor:pointer;"></i> &nbsp Talk: Tassion
+                        <li> 14:50-15:10 &nbsp Coffee Break
+                        <li> 15:10-16:30 &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalSabot" style="color:black; cursor:pointer;"></i> &nbsp MC: Sabot
+                    </ul>   
+
+                    <h4>Friday</h4>
+                    <ul style="padding-bottom:3cm;">
+                        <li> 9:00-9:30 &nbsp &nbsp &nbsp Breakfast
+                        <li> 9:30-10:40 &nbsp &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalZambotti" style="color:black; cursor:pointer;"></i> &nbsp MC: Zambotti
+                        <li> 10:40-11:00 &nbsp Coffee Break
+                        <li> 11:00-12:20 &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalSabot" style="color:black; cursor:pointer;"></i> &nbsp MC: Sabot
+                        <li> 12:20-14:00 &nbsp Lunch
+                        <li> 14:00-14:50 &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalSohier" style="color:black; cursor:pointer;"></i> &nbsp Talk: Sohier
+                        <li> 14:50-15:10 &nbsp Coffee Break
+                        <li> 15:10-16:30 &nbsp <i class="fa fa-plus-square-o" data-toggle="modal" data-target="#ModalFribergh" style="color:black; cursor:pointer;"></i> &nbsp MC: Fribergh
+                    </ul> 
+                </div>
+        </div>
+
+        
+
+        <!-- Modal Info-->
+        <div class="modal fade" id="ModalInfo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Practical Information</h4>
+              </div>
+              <div class="modal-body">
+                <p>The workshop will be held at Campus San Joaquín. The campus is situated on the line 5 of the 'metro'. If you come from the north, take line 5 in the direction 'Vicente Valdés'. Be aware that, during rush hour, trains do not stop at every station.</p>
+                <p>More information to be posted soon.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal blank (keep!)-->
+        <div class="modal fade" id="..." tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">...</h4>
+              </div>
+              <div class="modal-body">
+                ...
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal Fribergh-->
+        <div class="modal fade" id="ModalFribergh" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel"> Alex Fribergh </h4>
+              </div>
+              <div class="modal-body">
+                <h4>Biased random walk on supercritical percolation clusters</h4>
+
+                <p> We will present results on biased random walks on supercritical percolation clusters. This a natural model for observing trapping phenomena and anomalous long-term behaviors.
+We will explain why this model exhibits a phase transition from positive speed to zero speed as the bias increases. Furthermore, we shall discuss a subtle difficulty appearing when trying to rescale such a process to obtain scaling limits.
+One of our goals will be to explain the key tools used to analyze random walks in random environments that are directionally transient.
+This talk will be based on past and ongoing work of Alexander Fribergh and Alan Hammond.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal Sabot-->
+        <div class="modal fade" id="ModalSabot" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel"> Christophe Sabot</h4>
+              </div>
+              <div class="modal-body">
+                <h4> Edge Reinforced Random Walk, Vertex Reinforced Jump Process and 
+related topics </h4>
+
+	       <p>The Edge Reinforced Random Walk (ERRW) and the Vertex 
+Reinforced Jump Process
+(VRJP) are self-interacting random processes that have a tendency to 
+come back to their past trajectory.
+In these lectures I will explain how these processes are related with a 
+supersymetric sigma-field introduced by
+Zirnbauer and investigated by Disertori, Spencer, Zirnbauer.
+These processes exhibit a transition between recurrence and transience 
+in dimension d>=3, I will
+explain the main ideas of the localization/delocalization arguments. 
+Finally, I will explain some new relations
+with isomorphism theorems for classical Markov Jump Processes.
+Based on joint works with Tarrès and Disertori, Tarrès.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal Zambotti-->
+        <div class="modal fade" id="ModalZambotti" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel"> Lorenzo Zambotti</h4>
+              </div>
+              <div class="modal-body">
+                <h4>Renormalization of random distributions and SPDEs</h4>
+
+                <p>we give an overview of recent results and ongoing work on the renormalization of stochastic partial differential equations containing non-linear functions of random distributions in the context of Martin Hairer's theory of regularity structures. We will focus on the construction of the renormalized products of random distributions and the associated combinatorial description in terms of Feynman diagrams.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal Tassion-->
+        <div class="modal fade" id="ModalTassion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel"> Vincent Tassion </h4>
+              </div>
+              <div class="modal-body">
+                Title and abstract TBA. Bla
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal Sohier-->
+        <div class="modal fade" id="ModalSohier" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel"> Julien Sohier </h4>
+              </div>
+              <div class="modal-body">
+                <h4>Levy multiplicative chaos and star scale invariant random measures</h4>
+
+		<p>We consider the continuous analog of the celebrated
+Mandelbrot star equation with infinitely divisible weights. Mandel-
+brot introduced this equation to characterize the law of multiplicative
+cascades. We show existence and uniqueness of measures satisfying
+the aforementioned continuous equation. We obtain an explicit char-
+acterization of the structure of these measures, which reflects the
+constraints imposed by the continuous setting. In particular, we show
+that the continuous equation enjoys some specific properties that do
+not appear in the discrete star equation. To that purpose, we de-
+fine a L ́vy multiplicative chaos that generalizes the already existing
+constructions. (Joint work with R.Rhodes and V.Vargas) </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <div id="footer">
+    <div class="row"></div>
+    <div id="brand-footer" class="col-md-4">
+        <p style="margin-top:0.1cm;">
+            <strong>
+                Workshop: Topics in Random Media <br>
+                Santiago, Chile, July 24 - 25, 2014
+            </strong></p>
+    </div>
+
+    <div class="col-md-8" style="padding-top:5px">
+    <address>
+        Av. Vicuña Mackenna 4860, Macul, Chile<br>
+        Metro San Joaquín,
+        (+56 2) 23545779
+    </address>
+    </div>
+
+    </div>          
+
+    <!-- JavaScript -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script href="/js/underscore.js"></script>
+
+
+</body>
+
+</html>
